@@ -36,7 +36,7 @@ avisos/
 ## Instalação
 
 ```bash
-git clone https://github.com/Weyzert/NOME-DO-REPOSITORIO.git
+git clone https://github.com/Weyzert/Mural-de-Avisos.git
 cd NOME-DO-REPOSITORIO
 
 # dependências do servidor
